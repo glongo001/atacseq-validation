@@ -1,0 +1,60 @@
+201fDMSOw1_bwa-mem.sorted.bam
+23960430 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+4973 + 0 supplementary
+0 + 0 duplicates
+11106812 + 0 mapped (46.35% : N/A)
+0 + 0 paired in sequencing
+0 + 0 read1
+0 + 0 read2
+0 + 0 properly paired (N/A : N/A)
+0 + 0 with itself and mate mapped
+0 + 0 singletons (N/A : N/A)
+0 + 0 with mate mapped to a different chr
+0 + 0 with mate mapped to a different chr (mapQ>=5)
+***
+204fTBTw1_bwa-mem.sorted.bam
+17747067 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+5593 + 0 supplementary
+0 + 0 duplicates
+12961201 + 0 mapped (73.03% : N/A)
+0 + 0 paired in sequencing
+0 + 0 read1
+0 + 0 read2
+0 + 0 properly paired (N/A : N/A)
+0 + 0 with itself and mate mapped
+0 + 0 singletons (N/A : N/A)
+0 + 0 with mate mapped to a different chr
+0 + 0 with mate mapped to a different chr (mapQ>=5)
+***
+213mDMSOw1_bwa-mem.sorted.bam
+63448478 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+11070 + 0 supplementary
+0 + 0 duplicates
+21519052 + 0 mapped (33.92% : N/A)
+0 + 0 paired in sequencing
+0 + 0 read1
+0 + 0 read2
+0 + 0 properly paired (N/A : N/A)
+0 + 0 with itself and mate mapped
+0 + 0 singletons (N/A : N/A)
+0 + 0 with mate mapped to a different chr
+0 + 0 with mate mapped to a different chr (mapQ>=5)
+***
+218mTBTw1_bwa-mem.sorted.bam
+68262389 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+17034 + 0 supplementary
+0 + 0 duplicates
+45107235 + 0 mapped (66.08% : N/A)
+0 + 0 paired in sequencing
+0 + 0 read1
+0 + 0 read2
+0 + 0 properly paired (N/A : N/A)
+0 + 0 with itself and mate mapped
+0 + 0 singletons (N/A : N/A)
+0 + 0 with mate mapped to a different chr
+0 + 0 with mate mapped to a different chr (mapQ>=5)
+***
